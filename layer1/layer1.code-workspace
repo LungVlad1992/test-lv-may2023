@@ -1,0 +1,13 @@
+{
+  "folders": [
+	{
+		"path": "."
+	},
+	{
+		"path": "../layer103"
+	}
+],
+  "settings": {
+    "liveServer.settings.multiRootWorkspaceName": "layer1"
+  }
+}
